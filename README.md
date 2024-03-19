@@ -1,2 +1,3 @@
-# Template
-Template for abapGit CI Tests
+# JOBD
+
+Technical Job Definition
